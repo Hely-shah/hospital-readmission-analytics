@@ -15,6 +15,10 @@ patients using real clinical data from 130 US hospitals (1999–2008).
 
 **Dataset:** [UCI Diabetes 130-US Hospitals — Kaggle](https://www.kaggle.com/datasets/brandao/diabetes)
 
+**Tableau Dashboard:** [Live Interactive Dashboard](https://public.tableau.com/app/profile/hely.shah5048/viz/HospitalReadmissionAnalytics_17749415295100/Dashboard1)
+
+**Excel Analysis:** [Advanced Excel Workbook — Pivot Tables, XLOOKUP, INDEX-MATCH, Power Query](https://github.com/Hely-shah/hospital-readmission-analytics/blob/main/01_data/processed/hospital_excel_advanced_analysis.xlsx)
+
 ## Dashboard Preview
 
 ![Executive Overview](04_dashboard_exports/01_executive_overview.png)
