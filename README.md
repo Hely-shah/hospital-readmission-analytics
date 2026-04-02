@@ -88,6 +88,24 @@ DBeaver, or any cloud data warehouse.
 | Q5 | High-risk patient profile — multi-condition filter |
 | Q6 | Length of stay impact using SUM OVER window function |
 
+## Project Methodology
+
+**Requirement Gathering**
+- Defined analytical requirements based on clinical readmission patterns in the UCI Diabetes dataset
+- Identified key business questions before writing code: which age groups have highest readmission risk, which stay durations are most predictive, which diagnoses drive repeat admissions
+- Documented data requirements and output specifications (KPIs, risk tiers, dashboard views) prior to implementation
+
+**Agile-Inspired Workflow**
+- Worked in iterative cycles: data exploration → hypothesis → SQL query → validation → visualization
+- Each iteration refined the analysis based on findings from the previous cycle
+- All changes version-controlled via Git with descriptive commit messages
+
+**Business Requirements Addressed**
+- Identify patient segments with highest 30-day readmission risk
+- Quantify readmission rates by age group and hospital stay duration
+- Deliver findings in a format accessible to non-technical clinical stakeholders (Tableau Public dashboard)
+- Ensure data quality before analysis: null handling, duplicate removal, type validation
+
 ## Skills Demonstrated
 
 `Python` `Pandas` `NumPy` `Matplotlib` `SQL` `SQLite`
